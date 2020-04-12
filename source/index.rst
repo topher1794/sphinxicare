@@ -8,15 +8,16 @@ Welcome to ICARE System's documentation!
 
 This tutorial is intended for people who want to use Online ICARE System.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   gettingstarted
 
 Table of Contents
 ==================
+.. toctree::
+   :maxdepth: 2 
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   gettingstarted
+
+   
+
+
+
+
