@@ -12,22 +12,9 @@ This tutorial is intended for people who want to use Online ICARE System.
    :maxdepth: 2
    :caption: Contents:
 
-Getting Started
-==================
+   gettingstarted
 
-Open your browser and type http://app.uratex.com.ph:8081/uratexis, then login using your credentials or using your gmail account.
-
-.. image:: images/login.png
-   :width: 800
-
-
-
-
-
-
-
-
-Indices and tables
+Table of Contents
 ==================
 
 * :ref:`genindex`
