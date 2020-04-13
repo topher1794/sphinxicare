@@ -1,7 +1,7 @@
 R&I Review of ICARE
 ===============================================
 
-Click *Review ICARE* then select ICARE reference.    
+Click *Review ICARE* then select ICARE reference you want to review.     
 
 .. image:: images/rni1.png
    :width: 800
