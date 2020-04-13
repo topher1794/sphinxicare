@@ -16,6 +16,8 @@ Table of Contents
    gettingstarted
    openapp
    creation
+   view
+
 
 
    
