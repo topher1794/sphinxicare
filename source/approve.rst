@@ -11,7 +11,7 @@ To Approve ICARE click *For Approval* link and choose ICARE Reference.
 
 Click *Approve* button, select *Approve* or *Disapprove* then submit form.
 
-.. image:: images/approve.png
+.. image:: images/approve2.png
    :width: 800
    :alt: Approval
 
