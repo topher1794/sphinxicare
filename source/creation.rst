@@ -7,10 +7,10 @@ To create new issue, click Create (*Figure 3*) then fill-up the form (*Figure 4*
    :width: 800
    :alt: Opening
 
-*Figure 3*
+*Figure 3*. Create Navigation
 
 .. image:: images/create2.png
    :width: 800
    :alt: Opening
 
-*Figure 4*
+*Figure 4*. Form 
