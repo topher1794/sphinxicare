@@ -1,15 +1,15 @@
-Creation
+Viewing of ICARE
 ===============================================
 
 To create new issue, click Create (*Figure 3*) then fill-up the form (*Figure 4*) and click *Save*.
 
-.. image:: images/create1.png
-   :width: 800
+.. image:: images/view1.png
+   :width: 400
    :alt: Opening
 
 *Figure 3*
 
-.. image:: images/create2.png
+.. image:: images/view2.png
    :width: 800
    :alt: Opening
 
