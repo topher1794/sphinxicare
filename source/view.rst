@@ -1,17 +1,16 @@
 Viewing of ICARE
 ===============================================
 
-To create new issue, click Create (*Figure 3*) then fill-up the form (*Figure 4*) and click *Save*.
+Click highlighted reference (*Figure 5*) to view the details of the issued ICARE (*Figure 6*). 
 
 .. image:: images/view1.png
-   :width: 800
-   :height:400
+   :width: 400
    :alt: Opening
 
-*Figure 3*
+*Figure 5*
 
 .. image:: images/view2.png
    :width: 800
    :alt: Opening
 
-*Figure 4*
+*Figure 6*
