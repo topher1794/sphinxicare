@@ -7,7 +7,7 @@ To Approve ICARE click *For Approval* link and choose ICARE Reference.
    :width: 800
    :alt: Approval
 
-*Figure 9*. Approval of ICARE
+*Figure 11*. Approval of ICARE
 
 Click *Approve* button, select *Approve* or *Disapprove* then submit form.
 
@@ -15,4 +15,4 @@ Click *Approve* button, select *Approve* or *Disapprove* then submit form.
    :width: 800
    :alt: Approval
 
-*Figure 10*. Approve or Disapprove ICARE
+*Figure 12*. Approve or Disapprove ICARE

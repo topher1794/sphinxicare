@@ -19,6 +19,8 @@ Table of Contents
    view
    reply
    review
+   approve
+   verify
 
 
 
