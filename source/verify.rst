@@ -1,4 +1,4 @@
-Approval of ICARE
+Verification of ICARE
 ===============================================
 
 After clicking *Verify* button, new pop-up window will show and select valid status of ICARE . 
